@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Baek1300\Baek1300\bin\Debug\Baek1300.exe.config
+C:\Users\Administrator\source\repos\Baek1300\Baek1300\bin\Debug\Baek1300.exe
+C:\Users\Administrator\source\repos\Baek1300\Baek1300\bin\Debug\Baek1300.pdb
+C:\Users\Administrator\source\repos\Baek1300\Baek1300\obj\Debug\Baek1300.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Baek1300\Baek1300\obj\Debug\Baek1300.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Baek1300\Baek1300\obj\Debug\Baek1300.exe
+C:\Users\Administrator\source\repos\Baek1300\Baek1300\obj\Debug\Baek1300.pdb
